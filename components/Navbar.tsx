@@ -18,12 +18,12 @@ const Navbar = () => {
           />
         </Link>
 
-        <CustomButton
+        {/* <CustomButton
           title="Sign In"
           btnType="button"
           containerStyles="bg-white text-primary-blue rounded-full min-w-[130px]"
           handleClick={() => {}}
-        />
+        /> */}
       </nav>
     </header>
   );
